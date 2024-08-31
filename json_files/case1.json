@@ -1,0 +1,305 @@
+{
+  "case": {
+    "title": "Shayara Bano v. Union of India (2017)",
+    "description": "This case evaluates the constitutionality of instant triple talaq (talaq-e-bid'ah) in India. The game explores the balance between personal religious practices and fundamental rights as guaranteed by the Indian Constitution.",
+    "articles": [
+      {
+        "article": "Article 14",
+        "description": "Right to Equality before the Law. Ensures that every individual is treated equally before the law and prohibits any form of discrimination by the state."
+      },
+      {
+        "article": "Article 15",
+        "description": "Prohibition of Discrimination on Grounds of Religion, Race, Caste, Sex, or Place of Birth. Prohibits discrimination against individuals on these grounds by the state."
+      },
+      {
+        "article": "Article 21",
+        "description": "Protection of Life and Personal Liberty. Guarantees the right to life and personal liberty, ensuring that no one is deprived of these except according to the procedure established by law."
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "description": "Initial Arguments",
+      "player": {
+        "selectArticle": "Choose an article to support your argument.",
+        "articleOptions": [
+          "Article 14: Right to Equality before the Law",
+          "Article 15: Prohibition of Discrimination",
+          "Article 21: Protection of Life and Personal Liberty"
+        ],
+        "selectArgument": "Choose your argument to start the case.",
+        "argumentOptions": {
+          "arg1": "Instant triple talaq creates gender inequality by allowing men to unilaterally end a marriage.",
+          "arg2": "Despite the protection of religious practices, personal laws must align with fundamental rights.",
+          "arg3": "The practice of instant triple talaq leads to arbitrary and unfair treatment of women."
+        },
+        "selectEvidence": "Choose your evidence to support the argument.",
+        "evidenceOptions": [
+          "Impact statements from women who have experienced instant triple talaq.",
+          "Comparative analysis of gender equality laws and their application.",
+          "Historical context of Articles 14, 15, and 21 and their relevance to personal laws.",
+          "Expert opinions on balancing religious freedoms with constitutional rights.",
+          "Legal precedents supporting the alignment of personal laws with fundamental rights."
+        ]
+      },
+      "opponent": {
+        "responses": {
+          "arg1": {
+            "opponentArguments": [
+              "Religious practices are protected under the Constitution, and reforms should consider both religious freedoms and gender equality.",
+              "Personal laws have traditionally accommodated religious practices and may have unique provisions."
+            ],
+            "opponentEvidence": [
+              "Historical examples of religious practices being upheld in personal laws.",
+              "Statements from religious leaders on the significance of instant triple talaq."
+            ]
+          },
+          "arg2": {
+            "opponentArguments": [
+              "Religious practices are an integral part of personal identity, and reform must balance religious freedoms with constitutional rights.",
+              "Legal precedents show that personal laws can be reformed while respecting fundamental rights."
+            ],
+            "opponentEvidence": [
+              "Examples of personal law reforms respecting both religious practices and constitutional rights.",
+              "Legal interpretations of balancing religious freedoms with fundamental rights."
+            ]
+          },
+          "arg3": {
+            "opponentArguments": [
+              "The practice is a long-standing religious tradition and must be respected in the context of personal laws.",
+              "The state's role is to ensure balance between religious freedoms and gender equality."
+            ],
+            "opponentEvidence": [
+              "Comparative examples of religious practices evolving in modern contexts.",
+              "Statements from scholars on integrating tradition with constitutional reforms."
+            ]
+          }
+        }
+      },
+      "judge": {
+        "feedback": {
+          "arg1": {
+            "response": "This argument should highlight how instant triple talaq impacts gender equality and violates constitutional principles. Demonstrate how it creates an unequal status between men and women in marital rights.",
+            "points": 4
+          },
+          "arg2": {
+            "response": "Focus on how personal laws should be reformed to align with fundamental rights, addressing the balance between religious practices and constitutional mandates.",
+            "points": 3
+          },
+          "arg3": {
+            "response": "Highlight how the practice violates constitutional principles of justice and fairness, and how it disproportionately impacts women.",
+            "points": 4
+          }
+        }
+      }
+    },
+    {
+      "round": 2,
+      "description": "Counterarguments and Rebuttals",
+      "player": {
+        "selectRebuttal": "Respond to the opponent's arguments with your rebuttals.",
+        "rebuttalOptions": {
+          "rebuttal1": "The practice of instant triple talaq is outdated and conflicts with contemporary constitutional principles of equality.",
+          "rebuttal2": "Religious practices should not infringe upon fundamental rights guaranteed by the Constitution, such as equality and personal liberty.",
+          "rebuttal3": "Personal laws must evolve to reflect modern values while respecting religious traditions."
+        }
+      },
+      "opponent": {
+        "responses": {
+          "rebuttal1": {
+            "opponentArguments": [
+              "Religious practices have historical significance and must be respected. Reform should balance tradition with modern constitutional values.",
+              "Change must be approached in a way that respects both tradition and constitutional principles."
+            ],
+            "opponentEvidence": [
+              "Comparative examples of religious practices evolving in modern contexts.",
+              "Statements from scholars on integrating tradition with constitutional reforms."
+            ]
+          },
+          "rebuttal2": {
+            "opponentArguments": [
+              "Religious practices are protected under the Constitution but must be balanced with fundamental rights. Personal laws should adapt to uphold both.",
+              "Legal precedents support the integration of fundamental rights with personal laws."
+            ],
+            "opponentEvidence": [
+              "Historical cases where personal laws were reformed to align with fundamental rights.",
+              "Expert analyses on balancing religious freedoms with constitutional rights."
+            ]
+          },
+          "rebuttal3": {
+            "opponentArguments": [
+              "Religious traditions are deeply rooted in culture and identity. Reforms should be cautious and considerate.",
+              "Balancing tradition with modern constitutional values requires careful deliberation."
+            ],
+            "opponentEvidence": [
+              "Examples of gradual reforms in personal laws respecting religious traditions.",
+              "Statements from religious and legal scholars on balancing tradition and modernity."
+            ]
+          }
+        }
+      },
+      "judge": {
+        "feedback": {
+          "rebuttal1": {
+            "response": "Rebuttals should consider how to modernize religious practices while respecting their historical context. Demonstrate how reforms can align with current constitutional values.",
+            "points": 4
+          },
+          "rebuttal2": {
+            "response": "Address how personal laws can be reformed to respect both religious practices and constitutional rights. Focus on balancing these aspects effectively.",
+            "points": 3
+          },
+          "rebuttal3": {
+            "response": "Ensure that your rebuttal emphasizes the importance of balancing respect for tradition with the need for legal reforms that uphold constitutional values.",
+            "points": 3
+          }
+        }
+      }
+    },
+    {
+      "round": 3,
+      "description": "Detailed Examination of Evidence",
+      "player": {
+        "selectEvidence": "Present detailed evidence to support your case.",
+        "evidenceOptions": [
+          "Impact statements from women who have experienced instant triple talaq.",
+          "Comparative analysis of gender equality laws and their application.",
+          "Historical context of Articles 14, 15, and 21 and their relevance to personal laws.",
+          "Expert opinions on balancing religious freedoms with constitutional rights.",
+          "Legal precedents supporting the alignment of personal laws with fundamental rights.",
+          "Case studies showing the application of gender equality in diverse contexts."
+        ]
+      },
+      "opponent": {
+        "responses": {
+          "evidence1": {
+            "opponentArguments": [
+              "Testimonies must be weighed against the historical and religious significance of the practice.",
+              "Consider the broader impact of reform on religious freedoms."
+            ],
+            "opponentEvidence": [
+              "Historical context of personal laws and their impact on religious practices.",
+              "Statements from religious leaders about the practice."
+            ]
+          },
+          "evidence2": {
+            "opponentArguments": [
+              "Comparative analysis should consider the unique context of personal laws and religious practices.",
+              "Focus on how other jurisdictions handle similar issues within their legal frameworks."
+            ],
+            "opponentEvidence": [
+              "Examples of how personal laws have been reformed in other countries while balancing religious and constitutional principles.",
+              "Case studies showing the application of gender equality in diverse contexts."
+            ]
+          }
+        }
+      },
+      "judge": {
+        "feedback": {
+          "evidence1": {
+            "response": "Consider the reliability and relevance of testimonies, and how they illustrate the conflict between personal practices and constitutional rights. Balance with broader evidence.",
+            "points": 4
+          },
+          "evidence2": {
+            "response": "Ensure that comparative analysis is relevant to the Indian context and how it can inform the balance between personal laws and constitutional rights.",
+            "points": 3
+          }
+        }
+      }
+    },
+    {
+      "round": 4,
+      "description": "Analysis of Judicial Precedents",
+      "player": {
+        "selectPrecedent": "Select a judicial precedent to strengthen your case.",
+        "precedentOptions": [
+          "Sarla Mudgal v. Union of India (1995): A case addressing the conflict between personal laws and constitutional rights, particularly in the context of religious practices.",
+          "Vishaka v. State of Rajasthan (1997): A landmark case that laid down guidelines for the protection of women's rights, demonstrating the application of constitutional principles to personal laws."
+        ]
+      },
+      "opponent": {
+        "responses": {
+          "precedent1": {
+            "opponentArguments": [
+              "Precedents must be interpreted within their specific context. The broader implications for religious practices should be considered.",
+              "Focus on how these precedents were applied in specific legal contexts, and their relevance to the current case."
+            ],
+            "opponentEvidence": [
+              "Legal interpretations of the Sarla Mudgal case, emphasizing the balance between religious practices and constitutional rights.",
+              "Expert analyses of the Vishaka guidelines and their application to personal laws."
+            ]
+          },
+          "precedent2": {
+            "opponentArguments": [
+              "Precedents like Vishaka should be applied carefully, ensuring that they respect both constitutional principles and religious freedoms.",
+              "Consider how these precedents have been applied in other cases involving personal laws."
+            ],
+            "opponentEvidence": [
+              "Case studies showing the application of the Vishaka guidelines in diverse contexts.",
+              "Statements from legal scholars on the implications of applying such precedents to personal laws."
+            ]
+          }
+        }
+      },
+      "judge": {
+        "feedback": {
+          "precedent1": {
+            "response": "Precedents must be carefully selected to ensure relevance to the current case. Focus on how they apply to balancing personal laws with constitutional rights.",
+            "points": 3
+          },
+          "precedent2": {
+            "response": "Ensure that your precedent is applicable to the current case and that it effectively demonstrates how personal laws can be aligned with constitutional principles.",
+            "points": 4
+          }
+        }
+      }
+    },
+    {
+      "round": 5,
+      "description": "Final Arguments and Conclusion",
+      "player": {
+        "selectFinalArgument": "Summarize your case and present your final argument.",
+        "finalArgumentOptions": {
+          "final1": "Instant triple talaq violates constitutional principles of equality and justice, and must be reformed to align with modern values.",
+          "final2": "Religious practices should be respected, but they must also evolve to reflect contemporary constitutional principles."
+        }
+      },
+      "opponent": {
+        "responses": {
+          "final1": {
+            "opponentArguments": [
+              "Reforms must respect the historical and cultural significance of religious practices, balancing them with constitutional rights.",
+              "Consider the broader implications of reform on religious freedoms and societal values."
+            ],
+            "opponentEvidence": [
+              "Examples of gradual reforms in religious practices that respect constitutional principles.",
+              "Statements from religious and legal scholars on the balance between tradition and modernity."
+            ]
+          },
+          "final2": {
+            "opponentArguments": [
+              "Religious traditions are deeply rooted in cultural identity. Reforms should be cautious and considerate.",
+              "Focus on how reforms can be implemented in a way that respects both constitutional principles and religious freedoms."
+            ],
+            "opponentEvidence": [
+              "Comparative examples of religious reforms in other jurisdictions.",
+              "Expert analyses on the implications of reforming personal laws."
+            ]
+          }
+        }
+      },
+      "judge": {
+        "feedback": {
+          "final1": {
+            "response": "Your final argument should strongly emphasize how instant triple talaq conflicts with constitutional principles and the need for reform. Balance with respect for religious traditions.",
+            "points": 5
+          },
+          "final2": {
+            "response": "Ensure that your final argument effectively balances respect for religious traditions with the necessity of aligning them with constitutional principles.",
+            "points": 4
+          }
+        }
+      }
+    }
+  ]
+}
